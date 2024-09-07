@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.8.0](https://github.com/eslint-stylistic/eslint-stylistic/compare/v2.7.2...v2.8.0) (2024-09-07)
+
+
+### Features
+
+* remove `@types/eslint` ([5ea3d6a](https://github.com/eslint-stylistic/eslint-stylistic/commit/5ea3d6ac78ffd269a14bb86b848b1b4a3c8ca1d1))
+
 ## [2.7.2](https://github.com/eslint-stylistic/eslint-stylistic/compare/v2.7.1...v2.7.2) (2024-08-30)
 
 
